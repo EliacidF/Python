@@ -1,0 +1,5 @@
+yona = 6.0
+yonauri = 9.0
+eli = 4.0
+elias = 6.0
+eliacid = 9.0
