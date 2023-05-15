@@ -1,0 +1,30 @@
+1: ¿Qué tiene cuatro patas por la mañana, dos patas por la tarde y tres patas por la noche?
+2: Si un avión se estrella justo en la frontera entre México y Estados Unidos, ¿dónde entierras a los sobrevivientes?
+3: ¿Qué es lo que está en medio del cielo y de la tierra?
+4: ¿Qué objeto es tan frágil que al nombrarlo se rompe?
+5: Tengo un corazón que no late y una cama que nunca se deshace. ¿Quién soy?
+6: ¿Qué animal camina en cuatro patas por la mañana, dos patas por la tarde y tres patas por la noche?
+7: Si tienes un cubo de hielo en una habitación cerrada y la dejas, ¿cuándo se derrite?
+8: ¿Qué siempre se parte pero nunca se divide?
+9: ¿Qué es lo que comienza con una "t" termina con una "t" y tiene "t" en medio?
+10: ¿Qué animal tiene la capacidad de correr más rápido que un caballo?
+11: Tengo un cuerpo redondo, una boca grande y dientes afilados. ¿Quién soy?
+12: Si dos patos están en frente de un pato y un pato está detrás de otro pato, ¿dónde está el pato que está detrás?
+13: ¿Qué cosa es más grande cuando menos se ve?
+14: ¿Qué es aquello que nadie quiere tener pero nadie quiere perder?
+15: Soy un objeto común, pero la mayoría de las personas me rompen cuando me usan. ¿Quién soy?
+16: ¿Qué tiene ojos pero no puede ver?
+17: ¿Qué es lo que tiene manos y no puede agarrar nada?
+18: ¿Qué palabra se escribe incorrectamente en todos los diccionarios?
+19: ¿Cuántas letras tiene el alfabeto?
+20: ¿Qué es lo que siempre va hacia arriba pero nunca regresa?
+21: ¿Cuánto es 2+2?
+22: ¿Qué cosa puede volar sin tener alas?
+23: ¿Qué tiene un ojo pero no puede ver?
+24: ¿Qué es lo que no tiene principio ni fin?
+25: ¿Qué objeto tiene cuatro patas por la mañana, dos al mediodía y tres por la tarde?
+26: ¿Qué palabra comienza con "e", termina con "e" y solo tiene una letra?
+27: ¿Qué es lo que tiene boca pero no puede hablar?
+28: ¿Cuál es el número que es igual a la mitad de su suma más uno?
+29: ¿Qué es lo que está en el centro de París pero no se puede ver?
+30: ¿Qué es lo que siempre se rompe al nombrarlo?

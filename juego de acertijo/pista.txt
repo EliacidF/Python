@@ -1,0 +1,30 @@
+1: Este acertijo se refiere a un ser vivo.
+2: La respuesta a este acertijo se basa en la ubicación geográfica.
+3: Piensa en un objeto que siempre está presente en el cielo.
+4: El objeto al que se refiere es muy delicado.
+5: Esta pregunta se refiere a un objeto.
+6: Este acertijo es similar al número uno.
+7: La respuesta a este acertijo se basa en el tiempo.
+8: Piensa en un objeto que puede ser quebrado.
+9: La respuesta a este acertijo es una palabra.
+10: Este acertijo se refiere a un animal poco común.
+11: La respuesta a este acertijo es un objeto común.
+12: La respuesta a este acertijo se basa en la ubicación de los patos.
+13: Este acertijo se refiere a una medida.
+14: La respuesta a este acertijo es un objeto valioso.
+15: Piensa en un objeto frágil.
+16: Es un objeto que se usa diariamente en muchas casas.
+17: Lo puedes encontrar en cualquier lugar y es un objeto muy común.
+18: La respuesta es la misma que la pregunta.
+19: La respuesta no es tan obvia como parece.
+20: Se utiliza para enviar mensajes importantes.
+21: La respuesta no es obvia.
+22: Es un objeto muy común en la infancia.
+23: Lo utilizamos para cocinar.
+24: Es un círculo.
+25: Es un ser vivo.
+26: La respuesta es una vocal.
+27: Lo utilizamos todos los días.
+28: Es un número par.
+29: Es un objeto muy conocido.
+30: Es un silencio.
